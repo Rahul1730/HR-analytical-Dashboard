@@ -55,3 +55,11 @@ It enables HR teams and management to make **data-driven decisions** through ins
 ---
 
 ## 📂 Repository Structure
+HR_Analytics_Dashboard/
+│
+├── Dataset/ # Source data files
+├── HR_Analytics_Dashboard.pbix # Power BI dashboard file
+├── snapshot.png #
+├── README.md # Project documentation
+└── Reports/ # Optional exports or visu
+
