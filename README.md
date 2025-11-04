@@ -56,13 +56,13 @@ It enables HR teams and management to make **data-driven decisions** through ins
 
 ## 📂 Repository Structure
 HR_Analytics_Dashboard/
-│
-├── Dataset/ # Source data files
 
-├── HR_Analytics_Dashboard.pbix: [Power BI dashboard file](https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/HR%20analysis.pbit)
+Dataset/ # Source data files
 
-├── snapshot.png: [https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/snapshot%20of%20hr%20analyri(https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/snapshot%20of%20hr%20analyrics%20dashboard.png)
+ HR_Analytics_Dashboard.pbix: [Power BI dashboard file](https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/HR%20analysis.pbit)
 
-├── README.md:[ # Project documentation](https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/README.md)
+ snapshot.png: [https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/snapshot%20of%20hr%20analyri)
+ 
+ README.md:[ # Project documentation](https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/README.md)
 
 
