@@ -59,7 +59,7 @@ HR_Analytics_Dashboard/
 │
 ├── Dataset/ # Source data files
 ├── HR_Analytics_Dashboard.pbix # Power BI dashboard file
-├── snapshot.png #
+├── snapshot.png: https://github.com/Rahul1730/HR-analytical-Dashboard/blob/main/snapshot%20of%20hr%20analyrics%20dashboard.png
 ├── README.md # Project documentation
 └── Reports/ # Optional exports or visu
 
